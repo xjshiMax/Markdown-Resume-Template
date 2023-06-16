@@ -1,33 +1,38 @@
  <center>
-     <h1>XXX</h1>
+     <h1>史雄杰</h1>
  </center>
+
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：28
+* 手 机：15990071965&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;   邮 箱：XXXXX@XXX.com    
+* 专 业：通信工程 &emsp;&emsp;&emsp;&emsp;&emsp;                求职岗位：linux c++/音视频/流媒体
 
 ## 工作及教育经历
 
 * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生        
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生  
+* 浙江工业大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 通信工程专业-本科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟练使用 C/C++，C++11，了解QT, LVGL等界面编程框架。
+* 了解rtsp/rtmp/flv 等协议解析。
+* 了解rtp、mp4 等封装模式。
+* 了解H264/H265/MPEG4/AAC编码格式，包解码。
+* 对zlmediakit框架非常熟悉， 搭建流媒体，视频转发服务，可以任意自定义修改，兼容私有流。
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
-    * 具体功能 
+1.  浙江立石工业互联  基于ZLMEDIAKIT流媒体服务器（pas-MTS） - 独立开发 - 202203- 202306 
+    * 功能：pas采用sdk 接入摄像头，发布rtsp流。
+    * 功能：mts 进行rtsp转发，转协议成ws+flv，开放给web端取流。
     * 运用了那些技术，技术难点是
     * 效果如何
     * demo演示地址，github地址 
-
+    
 2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 
     * 具体功能 
     * 运用了那些技术，技术难点是
@@ -48,26 +53,4 @@
 * 性格开朗，喜欢跳舞，做个主持人 等等 
 
 > 简历的word版本，可以在我的公众号[代码随想录](https://img-blog.csdnimg.cn/20200815195519696.png)中，后台回复：简历模板，别可获取
-
-# 关于作者
-
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。
-
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
-
-<a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
-
-# 公众号
-
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
-
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
-
-**来看看就知道了，你会发现相见恨晚！**
-
-<a name="公众号"></a>
-
-![](https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
